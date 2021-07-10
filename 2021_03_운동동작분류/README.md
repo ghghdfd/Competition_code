@@ -6,4 +6,5 @@
 ##### 이전 시간 대비 센서 값의 변화량을 미분을 통해 계산
 ##### 센서 데이터 값을 푸리에 변환
 #
+
 ##### 1D-CNN 구조에 Global average pooling 적용하여 모델링 후 10-fold Stratified cross validation 수행
