@@ -4,4 +4,4 @@
 ##### 펌웨어, 모델 버젼의 변경 유무 변수 생성과 발생한 에러 타입 변수가 종속변수와의 상관관계가 높은 것을 참고해 주별, 일별, 시간별 에러타입 발생 카운트 변수 생성
 ##### LightGBM 모델에 Bayesian optimizing 한 결과와 Catboost모델을 비교 후 더 우수한 성능인 Catboost 모델을 최종 선택
 #
-##### 종속 변수인 불편 발생이 불균형한 분포를 고려해 Stratified cross validation을 통해 최종 학습해 제출 Private score 0.78
+##### 종속 변수인 불편 발생이 불균형한 분포를 고려해 Stratified cross validation을 통해 최종 학습해 제출 Private score 0.84008
