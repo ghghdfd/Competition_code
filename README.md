@@ -11,3 +11,5 @@
 #### 신용카드 사용자 연체 예측 AI 경진대회 최종 103등, score Logloss 0.673
 
 #### 자연어 기반 기후기술분류 AI 경진대회 최종 98등, score Macro-F1 0.728
+
+#### Ego-Vision 손동작 인식 AI 경진대회 최종 69등, score Logloss 2.41
